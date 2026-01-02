@@ -1,2 +1,1 @@
-# SourceBox.Resources
-SourceBox配置仓库
+# SourceBox配置仓库
