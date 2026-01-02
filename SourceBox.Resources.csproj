@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<UserSecretsId>dotnet-SourceBox.Resources-bb01e4bd-5648-4227-b4d0-def7fae50b10</UserSecretsId>
+	</PropertyGroup>
+</Project>

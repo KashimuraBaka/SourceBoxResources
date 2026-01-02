@@ -1,0 +1,8 @@
+{
+  "folder": true,
+  "filetype": "vpk",
+  "tags": {
+    "默认标签": [ "Cs2", "Map" ],
+    "地图标签": [ "Custom", "Classic", "Deathmatch", "Wingman", "Armsrace" ]
+  }
+}

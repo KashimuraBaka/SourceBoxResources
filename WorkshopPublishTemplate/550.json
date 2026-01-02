@@ -1,0 +1,11 @@
+{
+  "filetype": "vpk",
+  "tags": {
+    "生还者": [ "Survivors", "Bill", "Francis", "Louis", "Zoey", "Coach", "Ellis", "Nick", "Rochelle" ],
+    "特殊感染者": [ "Common Infected", "Special Infected", "Boomer", "Charger", "Hunter", "Jockey", "Smoker", "Spitter", "Tank", "Witch" ],
+    "游戏内容": [ "Campaigns", "Miscellaneous", "Models", "Scripts", "Sounds", "Textures", "UI" ],
+    "游戏模式": [ "Co-op", "Mutations", "Realism", "Realism Versus", "Scavenge", "Single Player", "Survival", "Versus" ],
+    "武器类型": [ "Weapons", "Grenade Launcher", "M60", "Melee", "Pistol", "Rifle", "Shotgun", "SMG", "Sniper", "Throwable" ],
+    "物品类型": [ "Items", "Adrenaline", "Defibrillator", "Medkit", "Pills", "Other" ]
+  }
+}

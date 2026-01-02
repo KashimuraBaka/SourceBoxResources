@@ -1,0 +1,7 @@
+{
+  "filetype": "gma",
+  "types": [ "Effects", "Game Mode", "Map", "Model", "NPC", "Tool", "Server Content", "Tool", "Vehicle", "Weapon" ],
+  "tags": {
+    "默认": [ "Build", "Cartoon", "Comic", "Fun", "Movie", "Realism", "Roleplay", "Scenic", "Water" ]
+  }
+}
