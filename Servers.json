@@ -9,7 +9,8 @@
       { "mode": "ze", "ip": "cs5.zombieden.cn:27015" },
       { "mode": "ze", "ip": "cs5.zombieden.cn:27016" },
       { "mode": "mg", "ip": "cs6.zombieden.cn:27089" },
-      { "mode": "mg", "ip": "cs6.zombieden.cn:27090" }
+      { "mode": "mg", "ip": "cs6.zombieden.cn:27090" },
+      { "mode": "mg", "ip": "cs6.zombieden.cn:27091" }
     ],
     "EXG": [
       { "mode": "de", "ip": "103.45.134.32:27001" },
