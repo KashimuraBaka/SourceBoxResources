@@ -9,10 +9,12 @@
       { "mode": "ze", "ip": "cs5.zombieden.cn:27015" },
       { "mode": "ze", "ip": "cs5.zombieden.cn:27016" },
       { "mode": "mg", "ip": "cs5.zombieden.cn:27017" },
+      { "mode": "mg", "ip": "cs5.zombieden.cn:27018" },
       { "mode": "mg", "ip": "cs6.zombieden.cn:27089" },
       { "mode": "mg", "ip": "cs6.zombieden.cn:27090" },
       { "mode": "mg", "ip": "cs6.zombieden.cn:27091" },
-      { "mode": "bhop", "ip": "cs5.zombieden.cn:27019" }
+      { "mode": "bhop", "ip": "cs1.zombieden.cn:27017" },
+      { "mode": "surf", "ip": "cs1.zombieden.cn:27019" }
     ],
     "EXG": [
       { "mode": "de", "ip": "103.45.134.32:27001" },
